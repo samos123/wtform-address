@@ -14,6 +14,7 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     py_modules=["wtform_address"],
+    license_files=["LICENSE"],
     install_requires=[
         'pycountry',
         'wtform'
